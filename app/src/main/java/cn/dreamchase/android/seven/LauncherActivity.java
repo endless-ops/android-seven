@@ -11,6 +11,9 @@ import android.os.Handler;
 import cn.dreamchase.android.seven.home.HomeActivity;
 import cn.dreamchase.android.seven.launcher.FirstLauncherActivity;
 
+/**
+ * -启动页与引导页
+ */
 public class LauncherActivity extends AppCompatActivity {
 
     public static final String FIRST_LAUNCHER = "first_launcher"; // 是否第一次启动
